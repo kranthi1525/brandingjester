@@ -368,6 +368,9 @@ body, html {
     height: 400px;
     padding-bottom: 10px;
   }
+  footer{
+    flex-direction: column;
+  }
 }
 
 /* Ensure content doesn't overflow */
